@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="28.758">
+    <testcase classname="Feature to test Gmail Functionality" name="User should be able to send an email and verify the contents of the email" time="28.503">
+        <system-out><![CDATA[Given I am in gmail.........................................................passed
+When I create a message.....................................................passed
+Then I should be able to send the message...................................passed
+And I should see the message in my inbox....................................passed
+And I should see that the contents of my message is the same as what I sent.passed
+]]></system-out>
+    </testcase>
+</testsuite>
