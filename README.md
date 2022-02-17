@@ -1,4 +1,4 @@
-# GmailSendAndVerifyScript
+# GmailAutomationScript
 This repository contains an automation script to do gmail login, compose an email and send a mail to recipient.
 
 Steps to clone the Repository:
