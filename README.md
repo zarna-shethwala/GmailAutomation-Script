@@ -34,6 +34,11 @@ Steps to Run the Script using IDE :
 1. Do Right Click on the project and select Run As --> JUnit
 2. It will run the script and generate a report.
 
+NOTE : Steps to configure JUnit
+1. Do Right click on the project.
+2.  Select Run As--> Run Configurations..-->Double click on JUnit-->Select project-->Choose Test Runner(JUnit 4)-->Run
+3.  It will run the selected project.
+
 Steps to Run the Script using Command :
 1. Open Command Line and go to the location of project.
 2.Type "mvn verify" command to run the project and generate a report.
