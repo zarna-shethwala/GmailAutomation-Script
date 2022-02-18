@@ -20,7 +20,8 @@ The script has been made using selenium-cucumber framework (Java) with Gherkin L
 -Added Dependancies : Cucumber Java | Cucumber Junit | JUnit | Selenium Java | Cucumber Maven Report 
 
 2.src/test/resources Folder
--This folder has two sub folders:
+    -This folder has two sub folders:
+    
     1.Drivers : it contains chromedriver.exe(98.0.4758.102 version) executable file to run the project on Chrome Browser(98.0.4758.102) in Windows OS.
     2.Features : This folder contains feature file for the given Scenario of the project using Gherkin Language.
    
