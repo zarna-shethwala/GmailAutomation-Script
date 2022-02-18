@@ -27,7 +27,8 @@ The script has been made using selenium-cucumber framework (Java) with Gherkin L
    
 3.src/test/java Folder
 -This folder has sub folder named StepDefination.
-     StepDefinations : This folder contains two file named GmailSendAndVerifyStepDefination.java and TestRunner.java
+    
+    StepDefinations : This folder contains two file named GmailSendAndVerifyStepDefination.java and TestRunner.java
         1. GmailSendAndVerifyStepDefination.java : This file has all the methods and implementations which are neccessary to successfully implement the given scenario.
         2. TestRunner.java : This file has methods and implementations which will run the automation script. 
     
